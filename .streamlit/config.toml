@@ -1,0 +1,5 @@
+[theme]
+primaryColor = "#F28C19"
+
+[global]
+disableWidgetStateDuplicationWarning = true
